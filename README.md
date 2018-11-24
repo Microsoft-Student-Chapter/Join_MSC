@@ -3,9 +3,9 @@ Welcome to the Microsoft Student Chapter! Join a community of open tech innovato
 
 Join the official channel 
 
-Gitter - https://gitter.im/asiatik-open 💬
+Gitter -https://gitter.im/msctiet 💬
 
-
+ 
 # How do I join?
 
 The community is open to everyone with a demonstrated interest in open technologies and follow best practices.
