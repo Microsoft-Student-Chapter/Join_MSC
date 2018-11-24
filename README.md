@@ -12,9 +12,9 @@ The community is open to everyone with a demonstrated interest in open technolog
 
 We’re starting with a small with a bunch of open source enthusiastic contributors. Let us know your interest, and we’ll review and send you an invitation for joining Asiatik.
 
-One possible way to join us is using this [link](https://orgmanager.miguelpiedrafita.com/join/36604391) 🎉
+One possible way to join us is using this [link]( https://orgmanager.miguelpiedrafita.com/o/Microsoft-Student-Chapter) 🎉
 
-Or tell us through an issue [here](https://github.com/Asiatik/Join_Asiatik/issues/new). 📣
+Or tell us through an issue [here](https://github.com/Microsoft-Student-Chapter/Join_MSC/issues/new). 📣
 
 **Importantly...**
 
